@@ -80,6 +80,9 @@ access to the decryption key to decrypt files stored on a computer. These attack
 the hacking software could be designed to delete all of the encrypted files in the case that a user enters the wrong decryption
 password. Although this source code would be an easy starting point to create ransomware, this sort of ransomware should **never** be created with ill-intent.
 
+If you decide to use this method to encrypt your files, responsible use will include managing passwords to each of your encrypted files
+in a secure way. If someone is able to retrieve your encrypted files and has your password, they will likely be able to decrypt the file.
+
 
 
 
