@@ -5,6 +5,8 @@
 
 The encryption/decryption methods used are implemented through the OpenSSL library. 
 
+**_Note: this can only be ran on mac machines with touch ID_**
+
 ### Encryptor
 
 The program `encryptor` asks a user to provide input that is stored into a map of type `map<string, double>`. 
